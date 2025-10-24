@@ -1,0 +1,4 @@
+Install All the modules mentioned below 
+Just copy the below code to download it :
+
+   pip install tk-tools opencv-contrib-python datetime pytest-shutil python-csv numpy pillow pandas times
